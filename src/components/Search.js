@@ -15,3 +15,4 @@ function Search({ handleInput, search }) {
 }
 
 export default Search;
+
